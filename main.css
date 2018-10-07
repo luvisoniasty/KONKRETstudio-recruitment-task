@@ -1,0 +1,28 @@
+.jumbotron {
+    background-color: #2E4053;
+    color: white;
+    text-align: center;
+}
+.card-header {
+    background-color: #2E4053;
+    color: white;
+}
+.btn-link{
+color: white;
+}
+#mapid { 
+    height:500px;
+}
+#popUpMsg {
+    text-align:center;
+}
+#popUpMsg button {
+    margin-top:5px;
+}
+#markerName {
+    display:block;
+}
+#setName {
+    display: block;
+    margin: 0 auto;
+}
